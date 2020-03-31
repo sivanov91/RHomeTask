@@ -11,7 +11,7 @@
     <exec.mainClass>task.Application</exec.mainClass>
     <jdk.version>1.8</jdk.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <micronaut.version>1.2.0</micronaut.version>
+    <micronaut.version>1.2.11</micronaut.version>
     <micronaut.data.version>1.0.0.M1</micronaut.data.version>
     <micronaut.sql.version>1.2.0</micronaut.sql.version>
     <junit5.version>5.5.0</junit5.version>
